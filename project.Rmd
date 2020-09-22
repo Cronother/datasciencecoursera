@@ -2,9 +2,8 @@
 title: "Hello World"
 author: "Santiago López-Quintero"
 date: "22/9/2020"
-output:
-  pdf_document: default
-  html_document: default
-  word_document: default
+output: pdf_document
 ---
-## This is a markdown file
+
+
+## This is a Markdown file
